@@ -1,0 +1,9 @@
+**/myenv/
+**/venv/
+**/python/
+**/.terraform
+*.hclt
+terraform.*
+.terraform.*
+**/python-dependencies/
+**.zip
