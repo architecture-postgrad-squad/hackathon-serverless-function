@@ -7,3 +7,12 @@ terraform.*
 .terraform.*
 **/python-dependencies/
 **.zip
+# Python
+__pycache__/
+*.pyc
+
+# AWS
+*.zip
+
+# Venv
+venv/
